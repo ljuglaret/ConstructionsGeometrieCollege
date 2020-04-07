@@ -1,0 +1,51 @@
+body{
+  font-family:'Courier New', Courier, monospace;
+  text-align: justify;
+width: 100%;
+}
+
+p{
+  padding-left: 2%;
+  padding-right: 2%;
+  clear : both;
+}
+
+h1{
+  padding-top: 2%;
+  color: thistle;
+  font-size: larger;
+  clear : both;
+}
+
+h2{
+  padding-bottom: 2%;
+  font-size: large;
+  color:sandybrown;
+  clear : both;
+
+}
+
+figure {
+        display: table;
+        width: 100%;
+        clear: both;
+    }
+
+  figcaption {
+    display: table-caption;
+    caption-side: top;
+    text-align: center;
+  }
+
+  img.scaled {
+  width: 100%;
+    }
+
+
+
+li{
+         padding-bottom: 1%;
+         padding-top: 1%;
+
+     
+}

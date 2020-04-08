@@ -27,8 +27,6 @@ h2{
 
 figure {
         display: table;
-        width: 100%;
-        clear: both;
     }
 
   figcaption {
@@ -48,4 +46,18 @@ li{
          padding-top: 1%;
 
      
+}
+
+#contientProtocole{
+width: 100%;
+        clear: both;
+
+}
+
+#protocole{
+  float:left;width:45%;padding-left: 5%;padding-top: 10%;
+}
+
+#illustrationProtocole{
+  float: right;width:40%;padding-right:10%
 }
